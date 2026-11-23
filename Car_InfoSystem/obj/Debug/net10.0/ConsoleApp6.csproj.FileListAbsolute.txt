@@ -1,0 +1,14 @@
+/Users/masonwillis/ConsoleApp6/ConsoleApp6/bin/Debug/net10.0/ConsoleApp6
+/Users/masonwillis/ConsoleApp6/ConsoleApp6/bin/Debug/net10.0/ConsoleApp6.deps.json
+/Users/masonwillis/ConsoleApp6/ConsoleApp6/bin/Debug/net10.0/ConsoleApp6.runtimeconfig.json
+/Users/masonwillis/ConsoleApp6/ConsoleApp6/bin/Debug/net10.0/ConsoleApp6.dll
+/Users/masonwillis/ConsoleApp6/ConsoleApp6/bin/Debug/net10.0/ConsoleApp6.pdb
+/Users/masonwillis/ConsoleApp6/ConsoleApp6/obj/Debug/net10.0/ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/masonwillis/ConsoleApp6/ConsoleApp6/obj/Debug/net10.0/ConsoleApp6.AssemblyInfoInputs.cache
+/Users/masonwillis/ConsoleApp6/ConsoleApp6/obj/Debug/net10.0/ConsoleApp6.AssemblyInfo.cs
+/Users/masonwillis/ConsoleApp6/ConsoleApp6/obj/Debug/net10.0/ConsoleApp6.csproj.CoreCompileInputs.cache
+/Users/masonwillis/ConsoleApp6/ConsoleApp6/obj/Debug/net10.0/ConsoleApp6.dll
+/Users/masonwillis/ConsoleApp6/ConsoleApp6/obj/Debug/net10.0/refint/ConsoleApp6.dll
+/Users/masonwillis/ConsoleApp6/ConsoleApp6/obj/Debug/net10.0/ConsoleApp6.pdb
+/Users/masonwillis/ConsoleApp6/ConsoleApp6/obj/Debug/net10.0/ConsoleApp6.genruntimeconfig.cache
+/Users/masonwillis/ConsoleApp6/ConsoleApp6/obj/Debug/net10.0/ref/ConsoleApp6.dll
